@@ -15,6 +15,7 @@
             background-color: white;
             padding: 10px;
             margin: 10px;
+            box-shadow: 1px 1px 1px black;
 
         }
         footer {
@@ -22,6 +23,7 @@
             color: white;
             padding: 10px;
             margin: 10px;
+            box-shadow: 1px 1px 1px black;
         }
         footer > details {
             background-color: #5f5a43;
@@ -36,6 +38,7 @@
             background-color: #4A4633;
             padding: 3px;
             text-align: center;
+            box-shadow: 1px 1px 1px black;
         }
         nav > a {
             text-decoration: none;
@@ -50,11 +53,13 @@
         article {
             background-color: rgb(158, 158, 158);
             padding: 5px;
+            box-shadow: 1px 1px 1px black;
         }
         
 
         article > aside {
             background-color: #BFBE9C;
+            box-shadow: 1px 1px 1px black;
             
         }
         h1 {
@@ -62,6 +67,7 @@
             text-decoration: underline;
             background-color: #802922;
             padding: 15px;
+            box-shadow: 1px 1px 1px black;
             
         }
        
@@ -73,6 +79,7 @@
             width: 250px;
             float: left;
             margin-right: 10px;
+            box-shadow: 1px 1px 1px black;
             
         }
         details {
